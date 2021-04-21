@@ -2,3 +2,7 @@
 /target/
 /.classpath
 /.project
+.classpath
+MANIFEST.MF
+org.eclipse.wst.common.component
+pom.properties
