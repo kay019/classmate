@@ -6,9 +6,7 @@
 MANIFEST.MF
 org.eclipse.wst.common.component
 pom.properties
-<<<<<<< HEAD
 /pom.properties
 /MANIFEST.MF 
 *.classpath
-=======
->>>>>>> refs/remotes/origin/main
+
