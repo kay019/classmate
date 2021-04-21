@@ -6,3 +6,6 @@
 MANIFEST.MF
 org.eclipse.wst.common.component
 pom.properties
+/pom.properties
+/MANIFEST.MF 
+*.classpath
