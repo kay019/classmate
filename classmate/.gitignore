@@ -6,7 +6,3 @@
 MANIFEST.MF
 org.eclipse.wst.common.component
 pom.properties
-/pom.properties
-/MANIFEST.MF 
-*.classpath
-classmate/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
